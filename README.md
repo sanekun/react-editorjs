@@ -1,2 +1,5 @@
-# react-editorjs
-editorjs-component-test
+# React-editorjs project
+
+simple react component for editorjs.
+
+Test with next.js

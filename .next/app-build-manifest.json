@@ -1,0 +1,14 @@
+{
+  "pages": {
+    "/editorjs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/editorjs/page.js"
+    ],
+    "/editorjs/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/editorjs/layout.js"
+    ]
+  }
+}
